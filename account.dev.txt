@@ -1,15 +1,145 @@
-
-
-
-
-
-paste Your Fbstate 😼
-
-if you are in Problm 
- contact with me 
-
-fb : https://facebook.com/international.vikhari420
-
-
-
-see Ya bby Bye 🧐
+[
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1782275720.612438,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ps_l",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1782354432.700782,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "datr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "RUEraCtz_TQocJXdh7D8Y7cH"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1755491777.440033,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "fr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "0rhEg3OQMfhgOVSnR.AWf59y5WX5zjEt5xjAUYVt_PLcpG8hAWAkHFzj3LaHw7mcTXVEU.BoK0FF..AAA.0.0.BoLAa8.AWena5QOGQfqbBWcXkrqX2BECtY"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1752978504,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "vpd",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "v1%3B743x406x3"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1779251777.441149,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "xs",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "24%3AeDA7Va0279BxjA%3A2%3A1747715775%3A-1%3A-1"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1779331364,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "fbl_st",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "101038232%3BT%3A29129922"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1748320580.042128,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "locale",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "en_GB"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1779251777.439258,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "c_user",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "61576219592698"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1782275720.612496,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ps_n",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1782275777.440651,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "sb",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "RUEraBxVuN1pfCjhLBEbtxCA"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1755570503,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "wl_cbv",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "v2%3Bclient_version%3A2824%3Btimestamp%3A1747794503"
+    }
+]
